@@ -1,4 +1,5 @@
 # Momoko Sato
+<img width="688" height="1024" alt="20261010_2022_image" src="https://github.com/user-attachments/assets/5db1d042-86c1-419c-ba18-7ef5a3bced82" />
 
 Hello and welcome. I am a writer, voice practitioner, and bilingual professional based in Kigali, Rwanda. 
 
