@@ -1,8 +1,9 @@
+<img width="688" height="1024" alt="20261010_2022_image" src="https://github.com/user-attachments/assets/7e55941d-8161-43b0-ae9a-00ae9679f7e3" />
 # Momoko Sato
 <table>
   <tr valign="top">
     <td width="30%" align="center">
-      <img src="https://github.com/user-attachments/assets/ここにコピーしたURL" width="100%" alt="Thumbnail" style="border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/7e55941d-8161-43b0-ae9a-00ae9679f7e3" width="100%" alt="Thumbnail" style="border-radius: 8px;">
     </td>
     <td width="70%">
       <p>Hello and welcome. I am a writer, voice practitioner, and bilingual professional based in Kigali, Rwanda.</p>
