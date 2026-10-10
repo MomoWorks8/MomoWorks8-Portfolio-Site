@@ -2,7 +2,7 @@
 <table>
   <tr valign="top">
     <td width="30%" align="center">
-      <img src="https://github.com/user-attachments/assets/7e55941d-8161-43b0-ae9a-00ae9679f7e3" width="100%" alt="Thumbnail" style="border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/7e55941d-8161-43b0-ae9a-00ae9679f7e3" width="100%" height="220px" alt="Thumbnail" style="border-radius: 8px; object-fit: cover; object-position: center;">
     </td>
     <td width="70%">
       <p>Hello and welcome. I am a writer, voice practitioner, and bilingual professional based in Kigali, Rwanda.</p>
@@ -10,7 +10,6 @@
     </td>
   </tr>
 </table>
----
 
 ### 🌿 Spiritual & Creative Explorations
 - **Non-Duality & Mystic Philosophy**: Living and expressing from a perspective of inner freedom, presence, and non-dual awareness.
