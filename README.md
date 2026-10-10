@@ -1,22 +1,24 @@
-# [Momoko Sato]
+# Momoko Sato
 
-Hello! I am a bilingual professional based in Rwanda, specializing in web content management, administrative support, and customer care.
+Hello and welcome. I am a writer, voice practitioner, and bilingual professional based in Kigali, Rwanda. 
 
-Alongside my professional work, I am passionate about exploring sound, words, and traditional aesthetics through creative projects.
+My life and work are deeply grounded in **mysticism, Non-Duality (Advaita / A Course in Miracles), and Zen philosophy**. Through the exploration of sound, resonance, and language, I seek to cultivate presence, clarity, and authentic expression in everyday life.
 
 ---
 
-### 🌿 Creative & Sound Explorations
-- **Modern Waka & Music**: Exploring contemporary interpretations of traditional Japanese Waka poetry, blending language, music, and emotion.
-- **Voice & Readings**: Sharing gentle Japanese readings and acoustic expressions.
+### 🌿 Spiritual & Creative Explorations
+- **Non-Duality & Mystic Philosophy**: Living and expressing from a perspective of inner freedom, presence, and non-dual awareness.
+- **Modern Waka & Acoustic Resonance**: Creating contemporary interpretations of traditional Japanese Waka poetry using AI music tools and voice readings, bringing ancient aesthetics into the present moment.
+- **Voice & Expression**: Spoken word, Japanese readings, and meditative soundscapes.
 
-### 💼 Professional Skills
-- Web Content Management & Landing Page Updates
-- Customer Care & Professional Email Support
-- Japanese-English Bilingual Communication & Writing
-- Administrative Assistance
+### 💼 Professional Capabilities
+Alongside my creative and spiritual journey, I offer reliable and detail-oriented support in:
+- Web Content Management & Updates
+- Gentle, Professional Customer Care & Communication (JP/EN)
+- Administrative Assistance & Coordination
 
 ---
 
 ### 📬 Connect
-For inquiries or project proposals, feel free to reach out via my **[Upwork Profile](https://www.upwork.com/freelancers/~01e8f0caeb7bd39ca1?viewMode=1)**.
+I welcome connections and meaningful collaborations. 
+For professional inquiries or freelance opportunities, please reach out via my **[Upwork Profile](https://www.upwork.com/freelancers/~01e8f0caeb7bd39ca1?viewMode=1)**.
