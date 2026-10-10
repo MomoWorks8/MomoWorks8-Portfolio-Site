@@ -1,10 +1,15 @@
 # Momoko Sato
-<img width="688" height="1024" alt="20261010_2022_image" src="https://github.com/user-attachments/assets/5db1d042-86c1-419c-ba18-7ef5a3bced82" />
-
-Hello and welcome. I am a writer, voice practitioner, and bilingual professional based in Kigali, Rwanda. 
-
-My life and work are deeply grounded in **mysticism, Non-Duality (Advaita / A Course in Miracles), and Zen philosophy**. Through the exploration of sound, resonance, and language, I seek to cultivate presence, clarity, and authentic expression in everyday life.
-
+<table>
+  <tr valign="top">
+    <td width="30%" align="center">
+      <img src="[ここに画像のURLまたはファイルパス](https://github.com/user-attachments/assets/5db1d042-86c1-419c-ba18-7ef5a3bced82)" width="100%" alt="Thumbnail" style="border-radius: 8px;">
+    </td>
+    <td width="70%">
+      <p>Hello and welcome. I am a writer, voice practitioner, and bilingual professional based in Kigali, Rwanda.</p>
+      <p>My life and work are deeply grounded in <strong>mysticism</strong>, <strong>Non-Duality</strong> (Advaita / A Course in Miracles), and <strong>Zen philosophy</strong>. Through the exploration of sound, resonance, and language, I seek to cultivate presence, clarity, and authentic expression in everyday life.</p>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🌿 Spiritual & Creative Explorations
