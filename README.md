@@ -2,7 +2,7 @@
 <table>
   <tr valign="top">
     <td width="30%" align="center">
-      <img src="[https://github.com/user-attachments/assets/5db1d042-86c1-419c-ba18-7ef5a3bced82](https://github.com/user-attachments/assets/5db1d042-86c1-419c-ba18-7ef5a3bced82)" width="100%" alt="Thumbnail" style="border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/5db1d042-86c1-419c-ba18-7ef5a3bced82(https://github.com/user-attachments/assets/5db1d042-86c1-419c-ba18-7ef5a3bced82)" width="100%" alt="Thumbnail" style="border-radius: 8px;">
     </td>
     <td width="70%">
       <p>Hello and welcome. I am a writer, voice practitioner, and bilingual professional based in Kigali, Rwanda.</p>
