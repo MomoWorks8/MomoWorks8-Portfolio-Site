@@ -39,4 +39,4 @@ In addition to my professional work, I offer structured, individual consultation
 
 If you are interested in a reading, please request an inquiry through the link below. *(Note: Accurate birth details—including birth date, precise time, and location—are required for a complete chart analysis.)*
 
-👉 **[Request a Jyotish Reading / Contact Form](#)** *(※フォームここ）*
+👉 **[Request a Jyotish Reading / Contact Form](#)** *(https://forms.gle/zBWXBaFYELCAEkeH6）*
