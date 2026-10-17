@@ -1,29 +1,33 @@
 # Momoko Sato
+
 <table>
   <tr valign="top">
     <td width="30%" align="center">
       <img src="https://github.com/user-attachments/assets/7e55941d-8161-43b0-ae9a-00ae9679f7e3" width="100%" height="220px" alt="Thumbnail" style="border-radius: 8px; object-fit: cover; object-position: center;">
     </td>
     <td width="70%">
-      <p>Hello and welcome. I am a writer, voice practitioner, and bilingual professional based in Kigali, Rwanda.</p>
-      <p>My life and work are deeply grounded in <strong>mysticism</strong>, <strong>Non-Duality</strong> (Advaita / A Course in Miracles), and <strong>Zen philosophy</strong>. Through the exploration of sound, resonance, and language, I seek to cultivate presence, clarity, and authentic expression in everyday life.</p>
+      <p>Hello and welcome. I am Momoko Sato—a bilingual professional, writer, and empathetic communicator based in Kigali, Rwanda.</p>
+      <p>Throughout my diverse career—spanning school website maintenance and email support, disability employment support, hospital care work, and aromatherapy—my core approach has always remained the same: <strong>deep listening, genuine care, and walking alongside people with empathy.</strong></p>
+      <p>Whether managing meticulous web updates or providing gentle bilingual customer support, I bring both technical accuracy and a human-centered touch to every project.</p>
     </td>
   </tr>
 </table>
 
-### 🌿 Spiritual & Creative Explorations
-- **Non-Duality & Mystic Philosophy**: Living and expressing from a perspective of inner freedom, presence, and non-dual awareness.
-- **Modern Waka & Acoustic Resonance**: Creating contemporary interpretations of traditional Japanese Waka poetry using AI music tools and voice readings, bringing ancient aesthetics into the present moment.
-- **Voice & Expression**: Spoken word, Japanese readings, and meditative soundscapes.
+### 🤝 Professional Focus: Bridging Empathy & Support
+Across varied industries, my work is unified by a commitment to mindful coordination and thoughtful communication:
+- **Web Content & Information Management**: Maintaining web platform accuracy, updating landing pages, and keeping digital resources reliable and user-friendly.
+- **Empathetic Customer Care (JP/EN)**: Handling inquiries via email and messages with warmth, clarity, and deep attention to detail.
+- **Human-Centered Coordination & Support**: Drawing from backgrounds in caregiving, counseling support, and administrative coordination to anticipate needs and ensure smooth operations.
 
-### 💼 Professional Capabilities
-Alongside my creative and spiritual journey, I offer reliable and detail-oriented support in:
-- Web Content Management & Updates
-- Gentle, Professional Customer Care & Communication (JP/EN)
-- Administrative Assistance & Coordination
+---
+
+### 🌿 Spiritual & Creative Explorations
+Alongside my administrative and support work, my personal life is deeply grounded in **mysticism, Non-Duality (Advaita / A Course in Miracles), and Zen philosophy**:
+- **Modern Waka & Acoustic Resonance**: Contemporary interpretations of classical Japanese Waka poetry using AI music tools and voice readings.
+- **Voice & Meditative Soundscapes**: Spoken word, Japanese readings, and ambient audio projects centered on presence and tranquility.
 
 ---
 
 ### 📬 Connect
-I welcome connections and meaningful collaborations. 
-For professional inquiries or freelance opportunities, please reach out via my **[Upwork Profile](https://www.upwork.com/freelancers/~01e8f0caeb7bd39ca1?viewMode=1)**.
+I welcome connections, meaningful collaborations, and remote work opportunities.  
+To discuss professional projects or freelance inquiries, please reach out via my **[Upwork Profile](https://www.upwork.com/freelancers/~01e8f0caeb7bd39ca1?viewMode=1)**.
