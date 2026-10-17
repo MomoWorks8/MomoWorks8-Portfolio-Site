@@ -37,6 +37,8 @@ To discuss professional projects, please reach out via my **[Upwork Profile](htt
 ### 🪐 Jyotish (Vedic Astrology) Readings
 In addition to my professional work, I offer structured, individual consultations based on deep studies of Jyotish. 
 
-If you are interested in a reading, please request an inquiry through the link below. *(Note: Accurate birth details—including birth date, precise time, and location—are required for a complete chart analysis.)*
+- **Fee**: Flat rate of **$30 USD** (includes a detailed written report / 鑑定書).
+- **Social Impact**: A portion of each fee is donated directly to support meals and education for children in Kigali, Rwanda.
+- **Process**: Accurate birth details—including birth date, precise time, and location—are required for a complete chart analysis. After you submit the form, I will review your details and send you a secure payment link (via PayPal/Card).
 
-👉 **[Request a Jyotish Reading / Contact Form](https://forms.gle/Ne1p8ENJKFmS3LwX8)**
+👉 **[Request a Jyotish Reading / Contact Form](https://forms.gle/F1TX9GMbQBvWr1f78)**
