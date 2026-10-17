@@ -28,6 +28,15 @@ Rather than fortune-telling, I approach the horoscope as a sophisticated system 
 
 ---
 
-### 📬 Connect
-I welcome connections, meaningful collaborations, and remote work opportunities.  
-To discuss professional projects or freelance inquiries, please reach out via my **[Upwork Profile](https://www.upwork.com/freelancers/~01e8f0caeb7bd39ca1?viewMode=1)**.
+### 📬 Connect & Inquiries
+I welcome connections, meaningful collaborations, and remote freelance opportunities.  
+To discuss professional projects, please reach out via my **[Upwork Profile](https://www.upwork.com/freelancers/~01e8f0caeb7bd39ca1?viewMode=1)**.
+
+---
+
+### 🪐 Jyotish (Vedic Astrology) Readings
+In addition to my professional work, I offer structured, individual consultations based on deep studies of Jyotish. 
+
+If you are interested in a reading, please request an inquiry through the link below. *(Note: Accurate birth details—including birth date, precise time, and location—are required for a complete chart analysis.)*
+
+👉 **[Request a Jyotish Reading / Contact Form](#)** *(※フォームここ）*
