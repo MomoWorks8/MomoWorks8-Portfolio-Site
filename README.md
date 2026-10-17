@@ -21,10 +21,10 @@ Across varied industries, my work is unified by a commitment to mindful coordina
 
 ---
 
-### 🌿 Spiritual & Creative Explorations
-Alongside my administrative and support work, my personal life is deeply grounded in **mysticism, Non-Duality (Advaita / A Course in Miracles), and Zen philosophy**:
-- **Modern Waka & Acoustic Resonance**: Contemporary interpretations of classical Japanese Waka poetry using AI music tools and voice readings.
-- **Voice & Meditative Soundscapes**: Spoken word, Japanese readings, and ambient audio projects centered on presence and tranquility.
+### 🪐 Intellectual Explorations & Jyotish Studies
+Alongside my administrative work, my personal pursuits are deeply rooted in Japanese Zen aesthetics and the rigorous study of **Jyotish (Vedic Astrology)**. 
+
+Rather than fortune-telling, I approach the horoscope as a sophisticated system of statistical patterns and cosmic structures—a fascinating discipline that bridges the often-divided realms of spirituality and rationality. Deepening my understanding of these symbolic frameworks is both a personal passion and a continuous exercise in structural thinking and pattern recognition.
 
 ---
 
