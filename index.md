@@ -5,10 +5,9 @@ title: Momoko Sato | Portfolio
 
 ## Hello & Welcome
 
-I am **Momoko Sato**—a bilingual professional, writer, and empathetic communicator based in Kigali, Rwanda.
+Hello and welcome. I am **Momoko Sato**—a **native Japanese speaker** and bilingual professional, writer, and empathetic communicator based in Kigali, Rwanda.
 
 Throughout my diverse career—spanning school website maintenance and email support, disability employment support, hospital care work, and aromatherapy—my core approach has always remained the same: **deep listening, genuine care, and walking alongside people with empathy.**
-
 ---
 
 ### 💼 Professional Focus: Bridging Empathy & Support
