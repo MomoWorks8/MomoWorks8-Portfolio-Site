@@ -1,8 +1,3 @@
----
-layout: default
-title: Momoko Sato - Portfolio
----
-
 # Momoko Sato
 
 Hello and welcome. I am Momoko Sato—a bilingual professional, writer, and empathetic communicator based in Kigali, Rwanda.
@@ -27,7 +22,7 @@ Across varied industries, my work is unified by a commitment to mindful coordina
 
 Alongside my professional work, I find joy in creative expressions and inner explorations. 
 
-* **[桃園響 | Togenkyo (YouTube Channel)](https://www.youtube.com/@togenkyo.resonance)**  
+* **[桃源響 | Togenkyo (YouTube Channel)](https://www.youtube.com/@togenkyo.resonance)**  
   A personal sanctuary for AI-generated ambient music, meditative soundscapes, and mantras. Rooted in an ongoing, quiet fascination with the mechanics of the mind (such as quieting the Default Mode Network), this space is a humble exploration of stillness, resonance, and mindful presence.
 
 ---
@@ -35,4 +30,4 @@ Alongside my professional work, I find joy in creative expressions and inner exp
 ### 📬 Connect & Inquiries
 
 I welcome connections, meaningful collaborations, and remote freelance opportunities.  
-To discuss professional projects, please reach out via my **[Upwork Profile](https://www.upwork.com/freelancers/~your-id)**.
+To discuss professional projects, please reach out via my **[Upwork Profile](https://www.upwork.com/freelancers/~01e8f0caeb7bd39ca1?mp_source=share)**.
