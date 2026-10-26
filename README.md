@@ -21,24 +21,8 @@ Across varied industries, my work is unified by a commitment to mindful coordina
 
 ---
 
-### 🪐 Intellectual Explorations & Jyotish Studies
-Alongside my administrative work, my personal pursuits are deeply rooted in Japanese Zen aesthetics and the rigorous study of **Jyotish (Vedic Astrology)**. 
-
-Rather than fortune-telling, I approach the horoscope as a sophisticated system of statistical patterns and cosmic structures—a fascinating discipline that bridges the often-divided realms of spirituality and rationality. Deepening my understanding of these symbolic frameworks is both a personal passion and a continuous exercise in structural thinking and pattern recognition.
-
----
-
 ### 📬 Connect & Inquiries
 I welcome connections, meaningful collaborations, and remote freelance opportunities.  
 To discuss professional projects, please reach out via my **[Upwork Profile](https://www.upwork.com/freelancers/~01e8f0caeb7bd39ca1?viewMode=1)**.
 
 ---
-
-### 🪐 Jyotish (Vedic Astrology) Readings
-In addition to my professional work, I offer structured, individual consultations based on deep studies of Jyotish. 
-
-- **Fee**: Flat rate of **$30 USD** (includes a detailed written report / 鑑定書).
-- **Social Impact**: A portion of each fee is donated directly to support meals and education for children in Kigali, Rwanda.
-- **Process**: Accurate birth details—including birth date, precise time, and location—are required for a complete chart analysis. After you submit the form, I will review your details and send you a secure payment link (via PayPal/Card).
-
-👉 **[Request a Jyotish Reading / Contact Form](https://forms.gle/F1TX9GMbQBvWr1f78)**
